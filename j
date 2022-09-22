@@ -9,7 +9,7 @@
       "title": "Poster",
       "volume": "N/A",
       "groups": {
-        "me": "/proxy/api/imgur/chapter/<imgur id>/"
+        "me": "<https://drive.google.com/file/d/1KshkTIEXWfhlEWTl_kTyIPcyPrlOWvLS>"
       },
       "last_updated": "1663913570"
     },
