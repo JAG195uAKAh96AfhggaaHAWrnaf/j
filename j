@@ -3,13 +3,13 @@
   "description": ".",
   "artist": ".",
   "author": ".",
-  "cover": "<https://drive.google.com/file/d/1KshkTIEXWfhlEWTl_kTyIPcyPrlOWvLS>",
+  "cover": "<https://i.postimg.cc/gkDCzKkk/Capture-d-e-cran-1.png>",
   "chapters": {
     "<chapter number>": {
       "title": "Poster",
       "volume": "N/A",
       "groups": {
-        "me": "<https://drive.google.com/file/d/1KshkTIEXWfhlEWTl_kTyIPcyPrlOWvLS>"
+        "me": "<https://i.postimg.cc/gkDCzKkk/Capture-d-e-cran-1.png>"
       },
       "last_updated": "1663913570"
     }
